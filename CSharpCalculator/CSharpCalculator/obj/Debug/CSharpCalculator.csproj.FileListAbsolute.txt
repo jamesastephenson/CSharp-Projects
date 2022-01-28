@@ -1,0 +1,15 @@
+F:\testCSharp\CSharpCalculator\CSharpCalculator\CSharpCalculator\bin\Debug\CSharpCalculator.exe.config
+F:\testCSharp\CSharpCalculator\CSharpCalculator\CSharpCalculator\bin\Debug\CSharpCalculator.exe
+F:\testCSharp\CSharpCalculator\CSharpCalculator\CSharpCalculator\bin\Debug\CSharpCalculator.pdb
+F:\testCSharp\CSharpCalculator\CSharpCalculator\CSharpCalculator\obj\Debug\CSharpCalculator.csproj.AssemblyReference.cache
+F:\testCSharp\CSharpCalculator\CSharpCalculator\CSharpCalculator\obj\Debug\CSharpCalculator.csproj.SuggestedBindingRedirects.cache
+F:\testCSharp\CSharpCalculator\CSharpCalculator\CSharpCalculator\obj\Debug\CSharpCalculator.Form1.resources
+F:\testCSharp\CSharpCalculator\CSharpCalculator\CSharpCalculator\obj\Debug\CSharpCalculator.Properties.Resources.resources
+F:\testCSharp\CSharpCalculator\CSharpCalculator\CSharpCalculator\obj\Debug\CSharpCalculator.csproj.GenerateResource.cache
+F:\testCSharp\CSharpCalculator\CSharpCalculator\CSharpCalculator\obj\Debug\CSharpCalculator.csproj.CoreCompileInputs.cache
+F:\testCSharp\CSharpCalculator\CSharpCalculator\CSharpCalculator\obj\Debug\CSharpCalculator.exe
+F:\testCSharp\CSharpCalculator\CSharpCalculator\CSharpCalculator\obj\Debug\CSharpCalculator.pdb
+F:\testCSharp\CSharpCalculator\CSharpCalculator\CSharpCalculator\bin\Debug\CSharpCalculator.exe.manifest
+F:\testCSharp\CSharpCalculator\CSharpCalculator\CSharpCalculator\bin\Debug\CSharpCalculator.application
+F:\testCSharp\CSharpCalculator\CSharpCalculator\CSharpCalculator\obj\Debug\CSharpCalculator.exe.manifest
+F:\testCSharp\CSharpCalculator\CSharpCalculator\CSharpCalculator\obj\Debug\CSharpCalculator.application
