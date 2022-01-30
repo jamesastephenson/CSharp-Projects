@@ -1,0 +1,11 @@
+F:\testCSharp\Flappy Bird Clone\FlappyBirdClone\FlappyBirdClone\bin\Debug\FlappyBirdClone.exe.config
+F:\testCSharp\Flappy Bird Clone\FlappyBirdClone\FlappyBirdClone\bin\Debug\FlappyBirdClone.exe
+F:\testCSharp\Flappy Bird Clone\FlappyBirdClone\FlappyBirdClone\bin\Debug\FlappyBirdClone.pdb
+F:\testCSharp\Flappy Bird Clone\FlappyBirdClone\FlappyBirdClone\obj\Debug\FlappyBirdClone.csproj.AssemblyReference.cache
+F:\testCSharp\Flappy Bird Clone\FlappyBirdClone\FlappyBirdClone\obj\Debug\FlappyBirdClone.csproj.SuggestedBindingRedirects.cache
+F:\testCSharp\Flappy Bird Clone\FlappyBirdClone\FlappyBirdClone\obj\Debug\FlappyBirdClone.Form1.resources
+F:\testCSharp\Flappy Bird Clone\FlappyBirdClone\FlappyBirdClone\obj\Debug\FlappyBirdClone.Properties.Resources.resources
+F:\testCSharp\Flappy Bird Clone\FlappyBirdClone\FlappyBirdClone\obj\Debug\FlappyBirdClone.csproj.GenerateResource.cache
+F:\testCSharp\Flappy Bird Clone\FlappyBirdClone\FlappyBirdClone\obj\Debug\FlappyBirdClone.csproj.CoreCompileInputs.cache
+F:\testCSharp\Flappy Bird Clone\FlappyBirdClone\FlappyBirdClone\obj\Debug\FlappyBirdClone.exe
+F:\testCSharp\Flappy Bird Clone\FlappyBirdClone\FlappyBirdClone\obj\Debug\FlappyBirdClone.pdb
